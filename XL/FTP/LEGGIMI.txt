@@ -1,0 +1,12 @@
+Impostare Row Height a 20 color giallo
+aggiungere una colonna all'inizio del foglio
+salvare come xlsx
+
+
+file.py
+inserire nome del file FTP 
+il numero delle righe
+
+
+CONTROLLARE pr_tABLErOCK
+
