@@ -1,0 +1,28 @@
+
+
+#### VSCode for Maya
+
+https://www.youtube.com/watch?v=sYi1CtKdkow
+
+ho modificato json settings in vscode (ppreferences/settings/json/) come da img
+
+pip install pymel
+
+MAYACODE si VSC spiega come aprire la porta in Maya
+Opening the correct ports for Send to Maya Commands.
+To open the correct ports in maya, you can use the following code.
+commandPort -name "localhost:7001" -sourceType "mel" -echoOutput;
+
+Note: If your using a extension version higher than 0.9, then MEL and Python code use the same port in maya.
+
+
+
+In the Maya script editor MEL Tab.
+VA LANCIATO PRIMA DI TUTTO (MEL taB)
+commandPort -name "localhost:7001" -sourceType "mel"
+
+
+
+import maya.cmds as cmds
+cmds.commandPort(name="127.0.0.1:7002", stp="python")
+cmds.commandPort(name="127.0.0.1:7001", stp="mel")`

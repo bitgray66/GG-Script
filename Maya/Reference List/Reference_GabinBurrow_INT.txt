@@ -1,0 +1,688 @@
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_BLD_GabinBurrow_INTRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_BLD_GabinBurrow_INT
+File Path: R:/miniheroes/Assets/SetElements/B/BLD_GabinBurrow_INT/Final/Anim/ME_BLD_GabinBurrow_INT.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_BookGeneric_FRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_BookGeneric_F
+File Path: R:/miniheroes/Assets/Props/B/BookGeneric_F/Final/Anim/ME_BookGeneric_F.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_BookGeneric_GRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_BookGeneric_G
+File Path: R:/miniheroes/Assets/Props/B/BookGeneric_G/Final/Anim/ME_BookGeneric_G.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_BookGeneric_HRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_BookGeneric_H
+File Path: R:/miniheroes/Assets/Props/B/BookGeneric_H/Final/Anim/ME_BookGeneric_H.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_BowlColorful_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_BowlColorful_C
+File Path: R:/miniheroes/Assets/Props/B/BowlColorful_C/Final/Anim/ME_BowlColorful_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Bowl_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Bowl_A
+File Path: R:/miniheroes/Assets/Props/B/Bowl_A/Final/Anim/ME_Bowl_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Brush_A1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Brush_A1
+File Path: R:/miniheroes/Assets/Props/B/Brush_A/Final/Anim/ME_Brush_A.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Brush_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Brush_A
+File Path: R:/miniheroes/Assets/Props/B/Brush_A/Final/Anim/ME_Brush_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Candle_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Candle_C
+File Path: R:/miniheroes/Assets/Props/C/Candle_C/Final/Anim/ME_Candle_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Candle_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Candle_D
+File Path: R:/miniheroes/Assets/Props/C/Candle_D/Final/Anim/ME_Candle_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_CanvasFramework_ERN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_CanvasFramework_E
+File Path: R:/miniheroes/Assets/Props/C/CanvasFramework_E/Final/Anim/ME_CanvasFramework_E.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_CarpetRectangular_FRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_CarpetRectangular_F
+File Path: R:/miniheroes/Assets/Props/C/CarpetRectangular_F/Final/Anim/ME_CarpetRectangular_F.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_CeilingDecorationStar_B1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_CeilingDecorationStar_B1
+File Path: R:/miniheroes/Assets/Props/C/CeilingDecorationStar_B/Final/Anim/ME_CeilingDecorationStar_B.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_CeilingDecorationStar_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_CeilingDecorationStar_B
+File Path: R:/miniheroes/Assets/Props/C/CeilingDecorationStar_B/Final/Anim/ME_CeilingDecorationStar_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_ChestSmall_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_ChestSmall_C
+File Path: R:/miniheroes/Assets/Props/C/ChestSmall_C/Final/Anim/ME_ChestSmall_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_ChestSmall_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_ChestSmall_D
+File Path: R:/miniheroes/Assets/Props/C/ChestSmall_D/Final/Anim/ME_ChestSmall_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Chest_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Chest_C
+File Path: R:/miniheroes/Assets/Props/C/Chest_C/Final/Anim/ME_Chest_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Chest_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Chest_D
+File Path: R:/miniheroes/Assets/Props/C/Chest_D/Final/Anim/ME_Chest_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A1
+File Path: R:/miniheroes/Assets/Props/C/Crayon_A/Final/Anim/ME_Crayon_A.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A2
+File Path: R:/miniheroes/Assets/Props/C/Crayon_A/Final/Anim/ME_Crayon_A.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A3
+File Path: R:/miniheroes/Assets/Props/C/Crayon_A/Final/Anim/ME_Crayon_A.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A4RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A4
+File Path: R:/miniheroes/Assets/Props/C/Crayon_A/Final/Anim/ME_Crayon_A.mb{4}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A5RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A5
+File Path: R:/miniheroes/Assets/Props/C/Crayon_A/Final/Anim/ME_Crayon_A.mb{5}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A6RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A6
+File Path: R:/miniheroes/Assets/Props/C/Crayon_A/Final/Anim/ME_Crayon_A.mb{6}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_A
+File Path: R:/miniheroes/Assets/Props/C/Crayon_A/Final/Anim/ME_Crayon_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B1
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B2
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B3
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B4RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B4
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb{4}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B5RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B5
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb{5}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B6RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B6
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb{6}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B7RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B7
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb{7}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B8RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B8
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb{8}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_B
+File Path: R:/miniheroes/Assets/Props/C/Crayon_B/Final/Anim/ME_Crayon_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C1
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C2
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C3
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C4RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C4
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb{4}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C5RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C5
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb{5}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C6RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C6
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb{6}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C7RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C7
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb{7}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C8RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C8
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb{8}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_C
+File Path: R:/miniheroes/Assets/Props/C/Crayon_C/Final/Anim/ME_Crayon_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D1
+File Path: R:/miniheroes/Assets/Props/C/Crayon_D/Final/Anim/ME_Crayon_D.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D2
+File Path: R:/miniheroes/Assets/Props/C/Crayon_D/Final/Anim/ME_Crayon_D.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D3
+File Path: R:/miniheroes/Assets/Props/C/Crayon_D/Final/Anim/ME_Crayon_D.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D4RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D4
+File Path: R:/miniheroes/Assets/Props/C/Crayon_D/Final/Anim/ME_Crayon_D.mb{4}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D5RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D5
+File Path: R:/miniheroes/Assets/Props/C/Crayon_D/Final/Anim/ME_Crayon_D.mb{5}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D6RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D6
+File Path: R:/miniheroes/Assets/Props/C/Crayon_D/Final/Anim/ME_Crayon_D.mb{6}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_D
+File Path: R:/miniheroes/Assets/Props/C/Crayon_D/Final/Anim/ME_Crayon_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E1
+File Path: R:/miniheroes/Assets/Props/C/Crayon_E/Final/Anim/ME_Crayon_E.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E2
+File Path: R:/miniheroes/Assets/Props/C/Crayon_E/Final/Anim/ME_Crayon_E.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E3
+File Path: R:/miniheroes/Assets/Props/C/Crayon_E/Final/Anim/ME_Crayon_E.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E4RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E4
+File Path: R:/miniheroes/Assets/Props/C/Crayon_E/Final/Anim/ME_Crayon_E.mb{4}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E5RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E5
+File Path: R:/miniheroes/Assets/Props/C/Crayon_E/Final/Anim/ME_Crayon_E.mb{5}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E6RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E6
+File Path: R:/miniheroes/Assets/Props/C/Crayon_E/Final/Anim/ME_Crayon_E.mb{6}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E7RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E7
+File Path: R:/miniheroes/Assets/Props/C/Crayon_E/Final/Anim/ME_Crayon_E.mb{7}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_ERN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_E
+File Path: R:/miniheroes/Assets/Props/C/Crayon_E/Final/Anim/ME_Crayon_E.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F1
+File Path: R:/miniheroes/Assets/Props/C/Crayon_F/Final/Anim/ME_Crayon_F.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F2
+File Path: R:/miniheroes/Assets/Props/C/Crayon_F/Final/Anim/ME_Crayon_F.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F3
+File Path: R:/miniheroes/Assets/Props/C/Crayon_F/Final/Anim/ME_Crayon_F.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F4RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F4
+File Path: R:/miniheroes/Assets/Props/C/Crayon_F/Final/Anim/ME_Crayon_F.mb{4}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F5RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F5
+File Path: R:/miniheroes/Assets/Props/C/Crayon_F/Final/Anim/ME_Crayon_F.mb{5}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F6RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F6
+File Path: R:/miniheroes/Assets/Props/C/Crayon_F/Final/Anim/ME_Crayon_F.mb{6}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_FRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Crayon_F
+File Path: R:/miniheroes/Assets/Props/C/Crayon_F/Final/Anim/ME_Crayon_F.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Drawer_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Drawer_A
+File Path: R:/miniheroes/Assets/Props/D/Drawer_A/Final/Anim/ME_Drawer_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Fork_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Fork_A
+File Path: R:/miniheroes/Assets/Props/F/Fork_A/Final/Anim/ME_Fork_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_FrameBorder_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_FrameBorder_A
+File Path: R:/miniheroes/Assets/Props/F/FrameBorder_A/Final/Anim/ME_FrameBorder_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_FrameBorder_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_FrameBorder_B
+File Path: R:/miniheroes/Assets/Props/F/FrameBorder_B/Final/Anim/ME_FrameBorder_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_HangingCarrots_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_HangingCarrots_A
+File Path: R:/miniheroes/Assets/Props/H/HangingCarrots_A/Final/Anim/ME_HangingCarrots_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_HoneyVase_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_HoneyVase_A
+File Path: R:/miniheroes/Assets/Props/H/HoneyVase_A/Final/Anim/ME_HoneyVase_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_HoneyVase_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_HoneyVase_D
+File Path: R:/miniheroes/Assets/Props/H/HoneyVase_D/Final/Anim/ME_HoneyVase_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_HoneyVase_ERN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_HoneyVase_E
+File Path: R:/miniheroes/Assets/Props/H/HoneyVase_E/Final/Anim/ME_HoneyVase_E.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Jar_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Jar_A
+File Path: R:/miniheroes/Assets/Props/J/Jar_A/Final/Anim/ME_Jar_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Jar_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Jar_B
+File Path: R:/miniheroes/Assets/Props/J/Jar_B/Final/Anim/ME_Jar_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Jar_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Jar_C
+File Path: R:/miniheroes/Assets/Props/J/Jar_C/Final/Anim/ME_Jar_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_LeafOak_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_LeafOak_C
+File Path: R:/miniheroes/Assets/SetElements/L/LeafOak_C/Final/Anim/ME_LeafOak_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Leaf_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Leaf_C
+File Path: R:/miniheroes/Assets/SetElements/L/Leaf_C/Final/Lo/ME_Leaf_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PR_Paper_C1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PR_Paper_C1
+File Path: R:/miniheroes/Assets/Props/P/PR_Paper_C/Final/Anim/ME_PR_Paper_C.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PR_Paper_C2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PR_Paper_C2
+File Path: R:/miniheroes/Assets/Props/P/PR_Paper_C/Final/Anim/ME_PR_Paper_C.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PR_Paper_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PR_Paper_C
+File Path: R:/miniheroes/Assets/Props/P/PR_Paper_C/Final/Anim/ME_PR_Paper_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Paper_D1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Paper_D1
+File Path: R:/miniheroes/Assets/Props/P/Paper_D/Final/Anim/ME_Paper_D.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Paper_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Paper_D
+File Path: R:/miniheroes/Assets/Props/P/Paper_D/Final/Anim/ME_Paper_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PencilHolder_A1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PencilHolder_A1
+File Path: R:/miniheroes/Assets/Props/P/PencilHolder_A/Final/Anim/ME_PencilHolder_A.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PencilHolder_A2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PencilHolder_A2
+File Path: R:/miniheroes/Assets/Props/P/PencilHolder_A/Final/Anim/ME_PencilHolder_A.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PencilHolder_A3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PencilHolder_A3
+File Path: R:/miniheroes/Assets/Props/P/PencilHolder_A/Final/Anim/ME_PencilHolder_A.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PencilHolder_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PencilHolder_A
+File Path: R:/miniheroes/Assets/Props/P/PencilHolder_A/Final/Anim/ME_PencilHolder_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Photo_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Photo_B
+File Path: R:/miniheroes/Assets/Props/P/Photo_B/Final/Anim/ME_Photo_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Photo_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Photo_C
+File Path: R:/miniheroes/Assets/Props/P/Photo_C/Final/Anim/ME_Photo_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Photo_ERN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Photo_E
+File Path: R:/miniheroes/Assets/Props/P/Photo_E/Final/Anim/ME_Photo_E.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_C
+File Path: R:/miniheroes/Assets/Props/P/Picture02_C/Final/Anim/ME_Picture02_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_ERN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_E
+File Path: R:/miniheroes/Assets/Props/P/Picture02_E/Final/Anim/ME_Picture02_E.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_FRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_F
+File Path: R:/miniheroes/Assets/Props/P/Picture02_F/Final/Anim/ME_Picture02_F.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_HRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_H
+File Path: R:/miniheroes/Assets/Props/P/Picture02_H/Final/Anim/ME_Picture02_H.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_IRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_I
+File Path: R:/miniheroes/Assets/Props/P/Picture02_I/Final/Anim/ME_Picture02_I.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_LRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_L
+File Path: R:/miniheroes/Assets/Props/P/Picture02_L/Final/Anim/ME_Picture02_L.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_MRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_M
+File Path: R:/miniheroes/Assets/Props/P/Picture02_M/Final/Anim/ME_Picture02_M.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_NRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_N
+File Path: R:/miniheroes/Assets/Props/P/Picture02_N/Final/Anim/ME_Picture02_N.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_ORN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_O
+File Path: R:/miniheroes/Assets/Props/P/Picture02_O/Final/Anim/ME_Picture02_O.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_PRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_P
+File Path: R:/miniheroes/Assets/Props/P/Picture02_P/Final/Anim/ME_Picture02_P.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_QRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_Q
+File Path: R:/miniheroes/Assets/Props/P/Picture02_Q/Final/Anim/ME_Picture02_Q.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_RRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_R
+File Path: R:/miniheroes/Assets/Props/P/Picture02_R/Final/Anim/ME_Picture02_R.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_SRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_S
+File Path: R:/miniheroes/Assets/Props/P/Picture02_S/Final/Anim/ME_Picture02_S.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_TRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_T
+File Path: R:/miniheroes/Assets/Props/P/Picture02_T/Final/Anim/ME_Picture02_T.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_URN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_U
+File Path: R:/miniheroes/Assets/Props/P/Picture02_U/Final/Anim/ME_Picture02_U.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_VRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_V
+File Path: R:/miniheroes/Assets/Props/P/Picture02_V/Final/Anim/ME_Picture02_V.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_ZRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture02_Z
+File Path: R:/miniheroes/Assets/Props/P/Picture02_Z/Final/Anim/ME_Picture02_Z.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture03_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture03_A
+File Path: R:/miniheroes/Assets/Props/P/Picture03_A/Final/Anim/ME_Picture03_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture03_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture03_B
+File Path: R:/miniheroes/Assets/Props/P/Picture03_B/Final/Anim/ME_Picture03_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Picture03_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Picture03_C
+File Path: R:/miniheroes/Assets/Props/P/Picture03_C/Final/Anim/ME_Picture03_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_A1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_A1
+File Path: R:/miniheroes/Assets/Props/P/PillowBed_A/Final/Anim/ME_PillowBed_A.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_A2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_A2
+File Path: R:/miniheroes/Assets/Props/P/PillowBed_A/Final/Anim/ME_PillowBed_A.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_A
+File Path: R:/miniheroes/Assets/Props/P/PillowBed_A/Final/Anim/ME_PillowBed_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_B1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_B1
+File Path: R:/miniheroes/Assets/Props/P/PillowBed_B/Final/Anim/ME_PillowBed_B.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_B2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_B2
+File Path: R:/miniheroes/Assets/Props/P/PillowBed_B/Final/Anim/ME_PillowBed_B.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PillowBed_B
+File Path: R:/miniheroes/Assets/Props/P/PillowBed_B/Final/Anim/ME_PillowBed_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PillowSofa_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PillowSofa_C
+File Path: R:/miniheroes/Assets/Props/P/PillowSofa_C/Final/Anim/ME_PillowSofa_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_PillowSofa_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_PillowSofa_D
+File Path: R:/miniheroes/Assets/Props/P/PillowSofa_D/Final/Anim/ME_PillowSofa_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Poster_GRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Poster_G
+File Path: R:/miniheroes/Assets/Props/P/Poster_G/Final/Anim/ME_Poster_G.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Poster_HRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Poster_H
+File Path: R:/miniheroes/Assets/Props/P/Poster_H/Final/Anim/ME_Poster_H.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Poster_IRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Poster_I
+File Path: R:/miniheroes/Assets/Props/P/Poster_I/Final/Anim/ME_Poster_I.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Poster_LRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Poster_L
+File Path: R:/miniheroes/Assets/Props/P/Poster_L/Final/Anim/ME_Poster_L.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_B
+File Path: R:/miniheroes/Assets/Props/P/Postit_B/Final/Anim/ME_Postit_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_C
+File Path: R:/miniheroes/Assets/Props/P/Postit_C/Final/Anim/ME_Postit_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_ERN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_E
+File Path: R:/miniheroes/Assets/Props/P/Postit_E/Final/Anim/ME_Postit_E.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_ORN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_O
+File Path: R:/miniheroes/Assets/Props/P/Postit_O/Final/Anim/ME_Postit_O.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_SRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Postit_S
+File Path: R:/miniheroes/Assets/Props/P/Postit_S/Final/Anim/ME_Postit_S.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_D
+File Path: R:/miniheroes/Assets/Props/P/Pot_D/Final/Anim/ME_Pot_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_ERN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_E
+File Path: R:/miniheroes/Assets/Props/P/Pot_E/Final/Anim/ME_Pot_E.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_FRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_F
+File Path: R:/miniheroes/Assets/Props/P/Pot_F/Final/Anim/ME_Pot_F.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_GRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_G
+File Path: R:/miniheroes/Assets/Props/P/Pot_G/Final/Anim/ME_Pot_G.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_HRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Pot_H
+File Path: R:/miniheroes/Assets/Props/P/Pot_H/Final/Anim/ME_Pot_H.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Pumpkin_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Pumpkin_A
+File Path: R:/miniheroes/Assets/SetElements/P/Pumpkin_A/Final/Anim/ME_Pumpkin_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Spoon_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Spoon_D
+File Path: R:/miniheroes/Assets/Props/S/Spoon_D/Final/Anim/ME_Spoon_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Spoon_FRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Spoon_F
+File Path: R:/miniheroes/Assets/Props/S/Spoon_F/Final/Anim/ME_Spoon_F.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Steps_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Steps_A
+File Path: R:/miniheroes/Assets/Props/S/Steps_A/Final/Anim/ME_Steps_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_A1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_A1
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_A/Final/Anim/ME_StoolLog_A.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_A
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_A/Final/Anim/ME_StoolLog_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_C1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_C1
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_C/Final/Anim/ME_StoolLog_C.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_C2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_C2
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_C/Final/Anim/ME_StoolLog_C.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_CRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_C
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_C/Final/Anim/ME_StoolLog_C.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_D1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_D1
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_D/Final/Anim/ME_StoolLog_D.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_D2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_D2
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_D/Final/Anim/ME_StoolLog_D.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_D
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_D/Final/Anim/ME_StoolLog_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_FRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolLog_F
+File Path: R:/miniheroes/Assets/Props/S/StoolLog_F/Final/Anim/ME_StoolLog_F.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_StoolRock_ERN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_StoolRock_E
+File Path: R:/miniheroes/Assets/Props/S/StoolRock_E/Final/Anim/ME_StoolRock_E.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_TableTrunk_DRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_TableTrunk_D
+File Path: R:/miniheroes/Assets/Props/T/TableTrunk_D/Final/Anim/ME_TableTrunk_D.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_TableTrunk_FRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_TableTrunk_F
+File Path: R:/miniheroes/Assets/Props/T/TableTrunk_F/Final/Anim/ME_TableTrunk_F.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_TableTrunk_GRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_TableTrunk_G
+File Path: R:/miniheroes/Assets/Props/T/TableTrunk_G/Final/Anim/ME_TableTrunk_G.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_Table_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_Table_B
+File Path: R:/miniheroes/Assets/Props/T/Table_B/Final/Anim/ME_Table_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_VaseCarrot_A1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_VaseCarrot_A1
+File Path: R:/miniheroes/Assets/Props/V/VaseCarrot_A/Final/Anim/ME_VaseCarrot_A.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_VaseCarrot_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_VaseCarrot_A
+File Path: R:/miniheroes/Assets/Props/V/VaseCarrot_A/Final/Anim/ME_VaseCarrot_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_VaseDaisy_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_VaseDaisy_A
+File Path: R:/miniheroes/Assets/SetElements/V/VaseDaisy_A/Final/Lo/ME_VaseDaisy_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_VasePlant_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_VasePlant_A
+File Path: R:/miniheroes/Assets/Props/V/VasePlant_A/Final/Anim/ME_VasePlant_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_VegetablesBasket_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_VegetablesBasket_A
+File Path: R:/miniheroes/Assets/Props/V/VegetablesBasket_A/Final/Anim/ME_VegetablesBasket_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A1
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_A/Final/Anim/ME_WoodLog_A.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A2
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_A/Final/Anim/ME_WoodLog_A.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A3
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_A/Final/Anim/ME_WoodLog_A.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A4RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A4
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_A/Final/Anim/ME_WoodLog_A.mb{4}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A5RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A5
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_A/Final/Anim/ME_WoodLog_A.mb{5}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A6RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A6
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_A/Final/Anim/ME_WoodLog_A.mb{6}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A7RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A7
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_A/Final/Anim/ME_WoodLog_A.mb{7}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_ARN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_A
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_A/Final/Anim/ME_WoodLog_A.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B1RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B1
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_B/Final/Anim/ME_WoodLog_B.mb{1}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B2RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B2
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_B/Final/Anim/ME_WoodLog_B.mb{2}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B3RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B3
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_B/Final/Anim/ME_WoodLog_B.mb{3}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B4RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B4
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_B/Final/Anim/ME_WoodLog_B.mb{4}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B5RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B5
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_B/Final/Anim/ME_WoodLog_B.mb{5}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B6RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B6
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_B/Final/Anim/ME_WoodLog_B.mb{6}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B7RN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B7
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_B/Final/Anim/ME_WoodLog_B.mb{7}
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_BRN
+Namespace: :ME_GabinBurrow_INT_IntA:GBT_IntA_WoodLog_B
+File Path: R:/miniheroes/Assets/Props/W/WoodLog_B/Final/Anim/ME_WoodLog_B.mb
+------------------------------
+Reference Node: ME_GabinBurrow_INT_IntARN
+Namespace: :ME_GabinBurrow_INT_IntA
+File Path: R:/miniheroes/Assets/Sets/G/GabinBurrow_INT/Final/Lo/ME_GabinBurrow_INT_IntA.mb
+------------------------------

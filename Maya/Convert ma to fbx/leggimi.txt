@@ -1,0 +1,45 @@
+controllare:
+maya.env in C:\Users\Admin\Documents\maya\2024 (vuoto H)
+elaborazioneIl plug-in Maya FBX memorizza i file di registro con le preimpostazioni FBX, in C:\My Documents\Maya\FBX\Logs.
+
+
+#### Utilizzo di librerie Python esterne con Maya Python
+Se desideri utilizzare librerie esterne a Maya nei tuoi script Python, dovrai aggiungerle alla variabile di ambiente PYTHONPATH prima di avviare Maya oppure aggiungerle al percorso di sistema chiamando sys.percorso.append()dall'interno del tuo interprete Python.
+Puoi aggiungere le librerie alla variabile di ambiente PYTHONPATH all'interno del file Maya.env o impostare la variabile nel tuo ambiente prima di avviare Maya.
+
+Il file Maya.env si trova in C:\Users\<nome utente>\Documents\maya\<numero_versione>\ su Windows, $HOME/maya/<numero_versione>/ su Linux e $HOME/Libreria/Preferenze/Autodesk/ maya/<numero_versione>/ su macOS.
+
+Per ulteriori informazioni su PYTHONPATH, vedere Variabili del percorso del file .
+
+Per aggiungere librerie al percorso di sistema Python dall'interprete Python, utilizzare sys.percorso.append()
+import sys sys.path.append( '<Path_To_Libraries>' )
+Puoi anche aggiungere la chiamata a sys.percorso.append()in uno script di avvio come userSetup.py.
+
+
+
+#### L'interprete Maya Python, mayapy
+Maya viene fornito con il proprio interprete Python esterno.
+Gli interpreti Python esterni sono utili per l'elaborazione batch e per accedere alle librerie di Maya da un'altra applicazione.
+mayapy, l'interprete Python 3 di Maya, è installato con Maya su Windows, Linux e macOS.
+mayapy2, l'interprete Python 2 di Maya, è installato con Maya su Windows e Linux.
+Nota: Maya per macOS non supporta Python 2.
+mayapy e mayapy2 si trovano nelle seguenti directory:
+
+piattaforma	Posizione
+finestre	C:\Programmi\Autodesk\Maya<Numero versione>\bin\
+
+mayapy e mayapy2 devono essere eseguiti da una riga di comando.
+mayapy può anche essere utilizzato per installare pacchetti Python 3, incluso PyMel , utilizzando il sistema di gestione dei pacchetti pip .
+
+
+#### Posizione di archiviazione preimpostata FBX
+Puoi salvare le tue preimpostazioni personalizzate in un file che puoi condividere con altri utenti. Consulta la tabella per la posizione dei preset salvati.
+piattaforma	Posizione preimpostata
+finestre	
+C:/Programmi/Autodesk/Maya[versione]/plug-ins/fbx/plug-ins/FBX/Preset
+Macintosh	HD/Applicazioni/Autodesk/maya[versione]/plug-ins/fbx/plug-ins/FBX/Preimpostazioni
+Linux	/home/<nome utente>/maya<versione corrente>/plug-ins/fbx/plug-ins/import
+Nota: la tabella sopra mostra il percorso delle preimpostazioni di importazione. Le preimpostazioni di esportazione seguono lo stesso percorso ma utilizzano invece "esporta".
+I file di preimpostazione hanno l'estensione file .fbximportpreset (per l'importazione) e .fbxexportpreset (per l'esportazione), ad esempio My Preset.fbximportpreset.
+Queste preimpostazioni vengono memorizzate in base al nome utente in modo che più utenti possano memorizzare preimpostazioni personalizzate sulla stessa macchina.
+Puoi anche eseguire il comando MELscript per individuare il percorso preimpostato degli utenti FBX: internalVar -userAppDir

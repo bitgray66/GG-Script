@@ -1,0 +1,21 @@
+commandPort -name "localhost:7001" -sourceType "mel"
+
+cmds.commandPort(name="127.0.0.1:7002", stp="python")
+
+
+#### Autodesk python file command
+https://download.autodesk.com/us/maya/2011help/commandspython/file.html#hExamples
+
+
+#### Batching Maya Files via Python
+DISABILITA JS!!!
+https://enrol3.rssing.com/chan-3235143/article490.html
+
+
+
+@@@@@@@@@@@@@@@@@@@@ 2dstye
+https://stackoverflow.com/questions/75713639/batch-fbx-export-in-maya
+
+
+#### www.simplygon.com
+https://www.simplygon.com/posts/81ddb551-d62e-4634-b02b-de1fb230a585

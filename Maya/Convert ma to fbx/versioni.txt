@@ -1,0 +1,3 @@
+la versione 7 volevo inserire un controllo che verificasse la presenza di un _GRP ma sospendo
+08  tolto controllo GRP e aggiunta selezione di tutto, funziona sulla cartella di test "start", la size è OK
+09  modificata per lavorare sul percorso corretto in Melody
