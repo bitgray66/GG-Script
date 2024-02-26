@@ -1,0 +1,22 @@
+#### Blender developmen Forum
+https://devtalk.blender.org/t/asset-browser-impossible-to-enter-a-folder/16638
+
+#### Blender Corso Base - Appendice 1 [ITA]: Asset Browser
+https://www.youtube.com/watch?v=EcfDxXPmFRw
+
+
+#### Blender Asset Browser: all you need to know (and then some!)
+https://www.youtube.com/watch?v=cbzBt60dhY8
+
+
+#### ADDON 
+AssetLibraryTools
+
+https://blenderartists.org/t/assetlibrarytools-free-addon-to-speed-up-the-creation-of-blender-3-0-asset-browser-libraries/1317385
+https://github.com/lucianjames/AssetLibraryTools
+scaricato AssetLibraryTools-main.zip per astrarre parti.
+
+
+#### Clean up Your Assets with Bulk Asset Tools - New Free Blender Addon
+https://www.youtube.com/watch?v=NHZilcrawAM
+scaricate 2 versioni per blender>3.5 e per blender>4.01 da provare

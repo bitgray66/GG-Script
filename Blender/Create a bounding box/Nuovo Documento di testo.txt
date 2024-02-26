@@ -1,0 +1,41 @@
+>>> import time
+>>> time.time()
+>>> help(bpy)
+
+
+>>> bpy.context.active_object
+bpy.data.objects['Cube']
+
+>>> ob = bpy.context.active_object
+
+>>> type(ob)
+<class 'bpy_types.Object'>
+
+>>> ob.data
+bpy.data.meshes['Cube']
+
+>>> type(ob.data)
+<class 'bpy_types.Mesh'>
+
+#### Creating a bounding box
+https://www.youtube.com/watch?v=wWTAQP7-ZUQ
+
+ho corretto la linea 111 per farla funzionare con Blender>3
+
+>>> con = bpy.context.active_object
+
+>>> type(con)
+<class 'bpy_types.Object'>
+
+>>> con.data
+bpy.data.meshes['Cone']
+
+>>> con.bound_box
+bpy.data.objects['Cone'].bound_box
+
+
+l'addon non crea una UI ma lo rende disponibile al menu F3 come:
+object compute Bounding Box
+
+
+

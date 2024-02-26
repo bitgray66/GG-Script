@@ -1,0 +1,17 @@
+#### Developer Forum
+https://devtalk.blender.org/
+
+
+#### CGDive (Blender Rigging Tuts)
+https://www.youtube.com/@CGDive
+
+
+
+#### Tut CG Python ####
+
+#### Using Python classes in Blender  
+https://www.youtube.com/watch?v=t2KEolkhIoA
+
+#### Using Python Dictionaries in Blender
+https://www.youtube.com/watch?v=FkJ2XanNBR4
+

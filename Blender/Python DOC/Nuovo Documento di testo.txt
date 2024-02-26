@@ -1,0 +1,7 @@
+
+#### DOC
+Space Type Items
+https://docs.blender.org/api/current/bpy_types_enum_items/space_type_items.html#rna-enum-space-type-items
+
+Region Type Items
+https://docs.blender.org/api/current/bpy_types_enum_items/region_type_items.html#rna-enum-region-type-items

@@ -1,0 +1,14 @@
+#### Node Wrangler Addon
+https://www.youtube.com/watch?v=XTVWy4IIH3A
+
+Menu		Node Wrangler ‣ Add Principled Setup
+Shortcut	Shift-Ctrl-T
+
+
+Add a principled texture setup from the selected texture files. Select a Principled BSDF node, select Add Principled Setup from the quick access menu (or press Shift-Ctrl-T), and select texture files. It automates the process of adding Image Texture nodes, loading images, selecting the appropriate Color Space, and connecting their outputs to the Principled BSDF node.
+
+It detects the type of textures by looking at their file names. You can edit the tags used for this matching process in the add-on preferences.
+
+
+Menù		Node Wrangler ‣ ‣ Link Active to Selected
+Scorciatoia	Backslash
