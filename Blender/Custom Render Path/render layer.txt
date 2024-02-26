@@ -1,0 +1,25 @@
+https://blender.community/c/rightclickselect/WQl4/?sorting=hot
+
+
+As we can see on Command Line Arguments — Blender Manual :
+
+-P , --python <filepath>
+
+Run the given Python script file.
+
+To force Blender's render only one specific view layer, we need to disable all other render layer for rendering. So let's make a file named " layer_select.py ", open it with a text editor like notepad or Blender's test editor, and save the following code inside:
+
+import bpy
+
+targetlayer = 'LAYER NAME'
+
+for layer in bpy.context.scene.view_layers:
+    if layer.name != targetlayer:
+        bpy.context.scene.view_layers[layer.name].use = False
+        print(f'disabled rendering for layer {layer.name}')
+Where LAYER NAME is your layer name as displayed in Blender. Be careful of preferring Latin characters without special characters other than underscores and dashes, otherwise running these commands from command lines and other softwares might produce issues.
+
+Now, to easily use it in cli, it's better to put this .py file in the same place as the .blend file. And using the cli will look like this:
+
+blender -b test.blend -P "layer_select.py"
+It will render only the layer you asked in the .py file. You can manually write a different layer name in the .py file between each render, or make different .py files with the adequate layer name and change the .py path in your cli.

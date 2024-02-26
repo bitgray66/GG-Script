@@ -24,17 +24,16 @@ class CAT_PT_add_scene_name(bpy.types.Operator):
     def execute(self, context):
         startPath = bpy.context.scene.render.filepath
         print(startPath)
-        sceneName = bpy.path.basename(bpy.data.filepath) #bpy.path.basename(bpy.context.blend_data.filepath)
-        sceneName = os.path.splitext(sceneName)[0] #replace('.blend', '')
-        print(sceneName)
-        finalPath = os.path.join("//", sceneName, filename + "_")
-    
-    
-    
-    
-    
-    
-        bpy.context.scene.render.filepath = finalPath
+        #sceneName = bpy.path.basename(bpy.data.filepath) #bpy.path.basename(bpy.context.blend_data.filepath)
+        #sceneName =  #replace('.blend', '')
+        #print(sceneName)
+        #finalPath = os.path.join("//", sceneName, filename + "_")
+        basePath = "R:/Melody_Momon/Production/Assets/RenderLayers/RenderAssets/PRP/"
+        print(basePath)
+        path = bpy.path.basename(bpy.context.blend_data.filepath)
+        fileName = path[:-6]
+        #cam = bpy.context.scene.camera.name
+        bpy.context.scene.render.filepath = os.path.join(basePath +'/'+ fileName +'/')
     
         return {"FINISHED"}
 
@@ -56,8 +55,6 @@ class VIEW3D_PT_mobo_panel(bpy.types.Panel):
     def draw(self, context):
         """define the layout of the panel"""
         layout = self.layout
-
-        
 
         row = self.layout.row()
         row.operator("mesh.primitive_cube_add", text="Add Cube")

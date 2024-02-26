@@ -1,0 +1,2 @@
+#### How to make blender addons part 4 how to buttons and sliders to your addon panel
+https://www.youtube.com/watch?v=3pbpIbTt15Y
