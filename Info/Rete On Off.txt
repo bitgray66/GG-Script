@@ -1,0 +1,6 @@
+C:\Windows\System32\netsh.exe interface set interface Ethernet admin=enable
+C:\Windows\System32\netsh.exe interface set interface Ethernet admin=disable
+
+
+C:\Windows\System32\cmd.exe /c "netsh interface set interface Ethernet admin=disable"
+C:\Windows\System32\cmd.exe /c "netsh interface set interface Ethernet admin=enable"

@@ -1,0 +1,9 @@
+^\s*#.*$
+\s*#.*$
+^\s*print.*$
+^\s*.*print.*\n
+
+Use the shortcut Alt+Enter to choose all occurrences of the keyword within the document.
+To select the complete line that includes the keyword, use the shortcut key Ctrl+L.
+Multiline editing option CTRL + ALT + ↑ or CTRL + ALT + ↓
+
