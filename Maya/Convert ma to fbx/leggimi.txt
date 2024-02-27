@@ -37,8 +37,7 @@ Puoi salvare le tue preimpostazioni personalizzate in un file che puoi condivide
 piattaforma	Posizione preimpostata
 finestre	
 C:/Programmi/Autodesk/Maya[versione]/plug-ins/fbx/plug-ins/FBX/Preset
-Macintosh	HD/Applicazioni/Autodesk/maya[versione]/plug-ins/fbx/plug-ins/FBX/Preimpostazioni
-Linux	/home/<nome utente>/maya<versione corrente>/plug-ins/fbx/plug-ins/import
+
 Nota: la tabella sopra mostra il percorso delle preimpostazioni di importazione. Le preimpostazioni di esportazione seguono lo stesso percorso ma utilizzano invece "esporta".
 I file di preimpostazione hanno l'estensione file .fbximportpreset (per l'importazione) e .fbxexportpreset (per l'esportazione), ad esempio My Preset.fbximportpreset.
 Queste preimpostazioni vengono memorizzate in base al nome utente in modo che più utenti possano memorizzare preimpostazioni personalizzate sulla stessa macchina.
