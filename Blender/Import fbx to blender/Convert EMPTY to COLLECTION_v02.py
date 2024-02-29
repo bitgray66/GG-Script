@@ -58,3 +58,16 @@ def get_scene_children():
     return children
 
 bpy.utils.register_class(ConvertEmptyToCollectionOperator)
+
+
+from pathlib import Path
+import bpy
+
+folder = Path(r"C:\Users\luigi.marazzi\Desktop\PRP")
+fbx_files = [f for f in folder.glob("**/*.fbx") if f.is_file()]
+for fbx_file in fbx_files:
+    bpy.ops.object.select_all(action='DESELECT')
+    bpy.ops.import_scene.fbx(filepath=str(fbx_file))
+    for obj in bpy.context.selected_objects:
+        obj.name = fbx_file.stem
+        print(obj)

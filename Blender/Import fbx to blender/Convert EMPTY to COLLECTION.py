@@ -1,7 +1,7 @@
 """Convert EMPTY to COLLECTION for selected objects or whole the scene. Recursively."""
 
 import bpy
-
+print('####################################')
 class ConvertEmptyToCollectionOperator(bpy.types.Operator):
     bl_idname = "wm.empty_to_collection"
     bl_label = "Minimal Operator"
