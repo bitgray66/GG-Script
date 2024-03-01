@@ -1,38 +1,27 @@
-"""Convert EMPTY to COLLECTION for selected objects or whole the scene. Recursively."""
-
 import bpy
-print('####################################')
+
 class ConvertEmptyToCollectionOperator(bpy.types.Operator):
     bl_idname = "wm.empty_to_collection"
     bl_label = "Minimal Operator"
 
     def execute(self, context):
-        
         if len(bpy.context.selected_objects):
             objects = bpy.context.selected_objects
-            print("objects1 =", objects)
         else:
             objects = get_scene_children()
-            print("objects2 =", objects)
         for o in objects:
-            print("o =", o)
             if len(o.users_collection):
                 parent_collection = o.users_collection[0]
-                print("parent_collection1 =", parent_collection)
             else:
                 parent_collection = bpy.context.scene.collection
-                print("parent_collection2 =", parent_collection)
-            print("parent_collection =", parent_collection)
             self.empties_to_collections(o, parent_collection)
         return {'FINISHED'}
 
 
     def empties_to_collections(self, o, parent_collection):
         children = get_objects_children(o)
-        print("children =", children)
         if hasattr(o, 'type') and o.type == 'EMPTY':
             # Create a new collection
-            print("nomeattuale =", o.name)
             new_collection = bpy.data.collections.new(o.name)
             parent_collection.children.link(new_collection)
 
@@ -56,7 +45,6 @@ def get_objects_children(obj):
         obs.extend(obj.children)
     if hasattr(obj, 'objects'):
         obs.extend(obj.objects)
-    print("obs =", obs)
     return obs
 
 

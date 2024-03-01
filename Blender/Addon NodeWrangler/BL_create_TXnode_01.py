@@ -2,7 +2,7 @@ import bpy
 import os
 
 # Cartella degli asset
-asset_folder = "C:\\asset"
+asset_folder = 'C:\\Users\\luigi.marazzi\\Desktop\\PRP'
 
 # Funzione per cercare le texture nella cartella con la prima lettera del nome dell'asset
 def find_textures(asset_name):

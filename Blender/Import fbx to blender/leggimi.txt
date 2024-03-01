@@ -1,2 +1,40 @@
 #### Moving From Maya to Blender - A Quick Walkthrough
 https://www.youtube.com/watch?v=-kuYbhLyvEk
+
+
+
+attualmente uno script mi sotituisce _GRP con _COLxx dove xx è un numero che riflette la gerachia 
+l'idea è di convertire gli Empty in col mantenendo xx e poi in base a xx nidificarle.
+
+
+
+la versione v00_a funziona se non c'è nulla di selezionato
+creo la v00_b dove all'inizio deseleziono tutto
+
+
+la  v00_d crea GEO ci sposta la coll master ma non cancella poi la master originale
+
+la v00_e funziona cancella (unlink) la scena COL originale (spero non crei orfani)
+
+###################### 
+
+importFbx_v00 apre importa fbx e salva .blend
+importFbx_v01 v00 + aggiunge una sfera + crea file di testo (con with non va)
+
+importFbx_v01
+Itera attraverso tutti i file nella cartella specificata.
+Pulisce la scena da eventuali oggetti, mesh, collezioni e materiali preesistenti.
+Importa il file FBX nella scena.
+Effettua operazioni aggiuntive, come l'aggiunta di una sfera.
+Salva il file .blend nella stessa cartella del file FBX con il suffisso "_v01".
+Scrive le informazioni sull'elaborazione effettuata in un file di log nella stessa cartella.
+Stampa le informazioni sull'elaborazione nella console di Blender.
+
+importFbx_v02
+partendo da _v01 ho provato ad utilizzare node wrangler ma non sembra percorribile
+
+
+###################### costruzione manuale del nodo per le texture
+https://stackoverflow.com/questions/64874345/getting-materials-and-textures-names-in-python
+
+BL_create_TXnode_01
