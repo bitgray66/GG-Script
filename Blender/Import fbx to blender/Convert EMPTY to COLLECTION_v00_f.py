@@ -31,7 +31,7 @@ class ConvertEmptyToCollectionOperator(bpy.types.Operator):
             # Converte le EMPTY in collezioni
             self.empties_to_collections(o, parent_collection)
         
-        # Trova la collezione principale e crea una nuova collezione "_GEO" basata su di essa
+        # Trova la collezione principale e crea una nuova collezione "_GEO_COL" 
         self.create_geo_collection()
         
         # Deseleziona tutti gli oggetti attualmente selezionati
@@ -44,12 +44,17 @@ class ConvertEmptyToCollectionOperator(bpy.types.Operator):
         for ch_col in bpy.context.scene.collection.children:
             print(ch_col)
             suffix = '_COL'
+            suffixNo = '_GEO_COL'
             scene_collection = bpy.context.scene.collection
-            if ch_col.name.endswith(suffix):
+            if  ch_col.name.endswith(suffixNo):
                 print('ch_col =', ch_col.name)
+                nameGeoCol = ch_col.name[:-8]
+                print('nameGeoCol =', nameGeoCol)
+                nameCol = nameGeoCol+'_COL'
+                print('nameCol =', nameCol)
+            elif ch_col.name.endswith(suffix):
+                print('IF = OUT')
                 scene_collection.children.unlink(ch_col)
-
-
         
         return {'FINISHED'}  # Restituisce un segnale di completamento
 
@@ -76,7 +81,7 @@ class ConvertEmptyToCollectionOperator(bpy.types.Operator):
             for ch in children:
                 self.empties_to_collections(ch, parent_collection)
                 
-    # Metodo per trovare la collezione principale e creare una nuova collezione "_GEO" basata su di essa
+    # Metodo per trovare la collezione principale e creare una nuova collezione "_GEO" 
     def create_geo_collection(self):
         # Trova la collezione principale
         master_collection = self.find_master_collection()
@@ -85,7 +90,7 @@ class ConvertEmptyToCollectionOperator(bpy.types.Operator):
             return {'CANCELLED'}
         
         # Crea una nuova collezione con il suffisso "_GEO"
-        new_collection_name = master_collection.name.replace("_COL", "_GEO")
+        new_collection_name = master_collection.name.replace("_COL", "_GEO_COL")
         new_collection = bpy.data.collections.new(new_collection_name)
         
         # Aggiungi la nuova collezione alla collezione principale

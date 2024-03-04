@@ -8,8 +8,8 @@ def add_principled_setup():
     mat = bpy.data.materials.new(name="Principled_BSDF")
     mat.use_nodes = True
     nodes = mat.node_tree.nodes
-    principled_bsdf = nodes.get("Principled BSDF")
-
+    principled_bsdf = nodes.get("Principled BSDF_AAAA")
+    #bpy.ops.node.nw_add_textures_for_principled()
     # Assegna il materiale a tutti gli oggetti nella scena
     for obj in bpy.data.objects:
         if obj.type == 'MESH':
@@ -69,9 +69,9 @@ class ConvertFBXOperator(bpy.types.Operator):
 
                         # Effettua le operazioni aggiuntive
                         # In questo esempio, aggiungiamo una sfera
-                        bpy.ops.mesh.primitive_uv_sphere_add(radius=1.0, location=(0, 0, 0))
+                        # bpy.ops.mesh.primitive_uv_sphere_add(radius=1.0, location=(0, 0, 0))
 
-                        add_principled_setup()  # Aggiungi il materiale Principled BSDF
+                        # add_principled_setup()  # Aggiungi il materiale Principled BSDF
 
                         #bpy.ops.node.nw_add_textures_for_principled()
 
