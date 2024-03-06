@@ -16,7 +16,7 @@ la  v00_d crea GEO ci sposta la coll master ma non cancella poi la master origin
 
 la v00_e funziona cancella (unlink) la scena COL originale (spero non crei orfani)
 
-la v00_f FIX la col principalecreata da zero deve avere suffisso_COL, mentre la col figlia sarà _GEO_COL
+la v00_f FIX la col principale creata da zero deve avere suffisso_COL, mentre la col figlia sarà _GEO_COL
 ###################### 
 
 importFbx_v00 apre importa fbx e salva .blend
@@ -39,6 +39,9 @@ funziona import fbx e sistema nodi empty/coll
 
 importFbx_v02_modEmpty_v02.py
 integro v00_f dove la coll main è _GEO_COL
+
+importFbx_v02_modEmpty_v03.py
+qui andrà integrata VS_NodeW_test02 03 ???
 
 ###################### costruzione manuale del nodo per le texture
 https://stackoverflow.com/questions/64874345/getting-materials-and-textures-names-in-python

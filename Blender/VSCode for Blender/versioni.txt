@@ -1,0 +1,3 @@
+#### VS_NodeW_test05.py
+funziona se copiata in una scena blend e lanciata ora provo ad integrarla in importFbx_v02_modEmpty_v03.py ch per ora apre i file fbx sistema in nodi e poi salva il file in formato .blend
+
