@@ -12,6 +12,7 @@ def converti_png_jpg(cartella):
                 nome_file, estensione = os.path.splitext(file_name)
                 # Crea il percorso del file JPG
                 file_jpg = os.path.join(root, nome_file + '.jpg')
+                print(f"convertito {file_jpg} ")
                 n = n+1
                 # Apri il file PNG e convertilo in JPG
                 try:

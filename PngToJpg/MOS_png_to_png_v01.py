@@ -12,6 +12,7 @@ def converti_png_jpg(cartella):
                 nome_file, estensione = os.path.splitext(file_name)
 
                 file_jpg = os.path.join(root, nome_file + '.jpg')
+                print(f"convertito {file_jpg} ")
                 n = n+1
 
                 try:
@@ -25,7 +26,7 @@ def converti_png_jpg(cartella):
 
 if __name__ == '__main__':
 
-    cartella_master = "D:\PRP\G\MM_PRP_Guitar_A_A\Tx\Hi"
+    cartella_master = "D:\\PRP"
 
 
     converti_png_jpg(cartella_master)
