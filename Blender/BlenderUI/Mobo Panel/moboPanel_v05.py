@@ -35,7 +35,7 @@ class CAT_OT_RenameDataOperator(bpy.types.Operator):
 class CAT_OT_DeletAllOrphan(bpy.types.Operator):
     # Delete Orphan
     bl_label = "Delete Orphan"
-    bl_idname = "cat.delate_orphan"
+    bl_idname = "cat.delete_orphan"
 
     def execute(self, context):
         
@@ -75,7 +75,7 @@ class WIEW3D_PT_MoboPanel(bpy.types.Panel):
         self.layout.separator()
 
         row = layout.row(align=True)
-        row.operator("cat.delate_orphan", text="Delete Orphan")
+        row.operator("cat.delete_orphan", text="Delete Orphan")
 
 
 
