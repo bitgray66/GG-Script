@@ -65,11 +65,34 @@ selected_collection = bpy.context.collection
 # Ottieni tutti gli oggetti nelle collezioni figlie
 all_objects = get_all_objects(selected_collection)
 
-# Stampare i nomi di tutti gli oggetti
+# Stampare i nomi e il tipo di tutti gli oggetti in scena
+objects=bpy.data.objects
 print('###################')
 for obj in all_objects:
-    print(obj.name)
+    print(obj.name, oby.type)
     if obj.type == 'MESH':
         obj.data.name = obj.name
     if obj.type == 'CURVES':
+        obj.data.name = obj.name
+
+
+>>>>>>> al posto dell IF 
+term = obj.type
+match term:
+    case 'CURVE':
+         obj.data.name = obj.name
+    case pattern-2:
+         action-2
+    case pattern-3:
+         action-3
+    case _:
+        action-default
+        
+>>>>>> oppure
+import bpy
+    
+MoboType = ['CURVE', 'MESH', 'CAMERA', 'CURVE', 'LIGHT', 'GPENCIL', 'META', 'VOLUME', 'FONT', 'SPEAKER', 'LATTICE', 'ARMATURE', 'LIGHT_PROBE']
+
+for obj in bpy.context.selected_objects:
+    if obj.type in MoboType:
         obj.data.name = obj.name

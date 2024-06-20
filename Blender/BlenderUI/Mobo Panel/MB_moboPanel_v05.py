@@ -1,8 +1,8 @@
 bl_info = {
     "name": "Mobo Custom Panel",
     "author": "Luigi Marazzi",
-    "version": (0, 0, 1),
-    "blender": (2, 80, 0),
+    "version": (0, 1, 0),
+    "blender": (4, 0, 0),
     "location": "3D Viewport > Sidebar > Mobo",
     "description": "Mobo setting panel",
     "category": "Development",
@@ -17,25 +17,25 @@ from bpy.types import Context
 
 
 class CAT_OT_RenameMeshOperator(bpy.types.Operator):
-    """"Rename all mesh from selected Coll"""
-    bl_label = "Rename Mesh Objects"
+
+    bl_label = "Rename Data"
     bl_idname = "cat.rename_mesh"
 
     def execute(self, context):
         
+        MoboType = ['CURVE', 'MESH', 'CAMERA', 'CURVE', 'LIGHT', 'GPENCIL', 'META', 'VOLUME', 'FONT', 'SPEAKER', 'LATTICE', 'ARMATURE', 'LIGHT_PROBE']
+
         for obj in bpy.context.selected_objects:
-            if obj.type == 'MESH':
-                obj.data.name = obj.name
-            if obj.type == 'CURVES':
+            if obj.type in MoboType:
                 obj.data.name = obj.name
 
         return {"FINISHED"}
     
 
 class CAT_OT_DeletAllOperator(bpy.types.Operator):
-    """"Delete Coll Objects Mesh Mat"""
-    bl_label = "Delete Coll Objects Mesh Mat"
-    bl_idname = "cat.delete_all"
+
+    bl_label = "Delete Orphan"
+    bl_idname = "cat.delate_all"
 
     def execute(self, context):
         
@@ -66,16 +66,16 @@ class WIEW3D_PT_MoboPanel(bpy.types.Panel):
     
 
     def draw(self, context):
-        """define the layout of the panel"""
+
         layout = self.layout
 
         row = layout.row(align=True)
-        row.operator("cat.rename_mesh", text="Rename eMsh Objects")
+        row.operator("cat.rename_mesh", text="Rename Data")
 
         self.layout.separator()
 
         row = layout.row(align=True)
-        row.operator("cat.delete_all", text="Delete Coll Objects Mesh Mat")
+        row.operator("cat.delete_all", text="Delete Orphan")
 
 
 
