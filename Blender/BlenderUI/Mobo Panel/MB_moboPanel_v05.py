@@ -16,10 +16,10 @@ from bpy.types import Context
 
 
 
-class CAT_OT_RenameMeshOperator(bpy.types.Operator):
+class CAT_OT_RenameDataOperator(bpy.types.Operator):
 
     bl_label = "Rename Data"
-    bl_idname = "cat.rename_mesh"
+    bl_idname = "cat.rename_data"
 
     def execute(self, context):
         
@@ -32,10 +32,10 @@ class CAT_OT_RenameMeshOperator(bpy.types.Operator):
         return {"FINISHED"}
     
 
-class CAT_OT_DeletAllOperator(bpy.types.Operator):
+class CAT_OT_DeletAllOrphan(bpy.types.Operator):
 
     bl_label = "Delete Orphan"
-    bl_idname = "cat.delate_all"
+    bl_idname = "cat.delate_orphan"
 
     def execute(self, context):
         
@@ -70,20 +70,20 @@ class WIEW3D_PT_MoboPanel(bpy.types.Panel):
         layout = self.layout
 
         row = layout.row(align=True)
-        row.operator("cat.rename_mesh", text="Rename Data")
+        row.operator("cat.rename_data", text="Rename Data")
 
         self.layout.separator()
 
         row = layout.row(align=True)
-        row.operator("cat.delete_all", text="Delete Orphan")
+        row.operator("cat.delate_orphan", text="Delete Orphan")
 
 
 
 
 classes = (
-    CAT_OT_RenameMeshOperator,
+    CAT_OT_RenameDataOperator,
     WIEW3D_PT_MoboPanel,
-    CAT_OT_DeletAllOperator,
+    CAT_OT_DeletAllOrphan,
 )
 
 
