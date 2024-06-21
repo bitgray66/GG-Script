@@ -1,7 +1,9 @@
 #### v04
 parto da zero aggiungo solo tasto per pulire scena completamente e tasto per rinominare mesh col stesso nome del obj.
 
-
+#### ver 5.0
+con file __init__ in uno zip per creare la struttura di un addon corretta
+lo zip avrà come nome MoboCustomPanel 5.0.zip, contiene la cartella MoboCustomPanel che contiene __init__.py e MoboCustomPanel.py
 
 
 
