@@ -2,7 +2,7 @@ bl_info = {
     "name": "Mobo Custom Panel",
     "author": "Luigi Marazzi",
     "version": (0, 1, 0),
-    "blender": (4, 1, 0),
+    "blender": (5, 0, 1),
     "location": "3D Viewport > Sidebar > Mobo",
     "description": "Mobo setting panel",
     "category": "Development",

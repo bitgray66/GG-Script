@@ -1,13 +1,19 @@
+# give Python access to Blender's functionality
+from typing import Set
 import bpy
+import os
+from bpy.types import Context
+
+
 
 class CAT_OT_RenameDataOperator(bpy.types.Operator):
-
-    bl_label = "Rename Data"
-    bl_idname = "cat.rename_data"
+    # Rename all data from selected Coll with same name of the
+    bl_label = "Rename Data" # found at the top of the Panel
+    bl_idname = "cat.rename_data"   # found at the top of the Panel
 
     def execute(self, context):
         
-        MoboType = ['CURVE', 'MESH', 'CAMERA', 'CURVE', 'LIGHT', 'GPENCIL', 'META', 'VOLUME', 'FONT', 'SPEAKER', 'LATTICE', 'ARMATURE', 'LIGHT_PROBE']
+        MoboType = ['CURVE', 'MESH', 'CAMERA', 'CURVE', 'LIGHT', 'GPENCIL', 'META', 'VOLUME', 'FONT', 'SPEAKER', 'LATTICE', 'ARMATURE', 'LIGHT_PROBE', 'CURVES' ]
 
         for obj in bpy.context.selected_objects:
             if obj.type in MoboType:
@@ -17,9 +23,9 @@ class CAT_OT_RenameDataOperator(bpy.types.Operator):
     
 
 class CAT_OT_DeletAllOrphan(bpy.types.Operator):
-
+    # Delete Orphan
     bl_label = "Delete Orphan"
-    bl_idname = "cat.delate_orphan"
+    bl_idname = "cat.delete_orphan"
 
     def execute(self, context):
         
@@ -41,16 +47,16 @@ class CAT_OT_DeletAllOrphan(bpy.types.Operator):
 
 class WIEW3D_PT_MoboPanel(bpy.types.Panel):
 
-
-    bl_space_type = "VIEW_3D"
-    bl_region_type = "UI"
-    bl_category = 'Mobo'
-    bl_label = "Mobo Scripts"
+    # where to add the panel in the UI
+    bl_space_type = "VIEW_3D"  # 3D Viewport area (find list of values here https://docs.blender.org/api/current/bpy_types_enum_items/space_type_items.html#rna-enum-space-type-items)
+    bl_region_type = "UI"  # Sidebar region (find list of values here https://docs.blender.org/api/current/bpy_types_enum_items/region_type_items.html#rna-enum-region-type-items)
+    bl_category = 'Mobo' # found in the Sidebar
+    bl_label = "Mobo Scripts" # found at the top of the Panel
     bl_idname = "PT_MoboPanel"
     
 
     def draw(self, context):
-
+        # define the layout of the panel
         layout = self.layout
 
         row = layout.row(align=True)
@@ -59,7 +65,7 @@ class WIEW3D_PT_MoboPanel(bpy.types.Panel):
         self.layout.separator()
 
         row = layout.row(align=True)
-        row.operator("cat.delate_orphan", text="Delete Orphan")
+        row.operator("cat.delete_orphan", text="Delete Orphan")
 
 
 

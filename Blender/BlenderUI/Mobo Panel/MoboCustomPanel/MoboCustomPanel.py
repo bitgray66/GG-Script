@@ -1,20 +1,4 @@
-bl_info = {
-    "name": "Mobo Custom Panel",
-    "author": "Luigi Marazzi",
-    "version": (0, 1, 0),
-    "blender": (4, 0, 0),
-    "location": "3D Viewport > Sidebar > Mobo",
-    "description": "Mobo setting panel",
-    "category": "Development",
-}
-
-
-from typing import Set
 import bpy
-import os
-from bpy.types import Context
-
-
 
 class CAT_OT_RenameDataOperator(bpy.types.Operator):
 
@@ -23,7 +7,7 @@ class CAT_OT_RenameDataOperator(bpy.types.Operator):
 
     def execute(self, context):
         
-        MoboType = ['CURVE', 'MESH', 'CAMERA', 'CURVE', 'LIGHT', 'GPENCIL', 'META', 'VOLUME', 'FONT', 'SPEAKER', 'LATTICE', 'ARMATURE', 'LIGHT_PROBE']
+        MoboType = ['CURVE', 'MESH', 'CAMERA', 'CURVE', 'LIGHT', 'GPENCIL', 'META', 'VOLUME', 'FONT', 'SPEAKER', 'LATTICE', 'ARMATURE', 'LIGHT_PROBE', 'CURVES' ]
 
         for obj in bpy.context.selected_objects:
             if obj.type in MoboType:
@@ -35,7 +19,7 @@ class CAT_OT_RenameDataOperator(bpy.types.Operator):
 class CAT_OT_DeletAllOrphan(bpy.types.Operator):
 
     bl_label = "Delete Orphan"
-    bl_idname = "cat.delete_orphan"
+    bl_idname = "cat.delate_orphan"
 
     def execute(self, context):
         
@@ -75,7 +59,7 @@ class WIEW3D_PT_MoboPanel(bpy.types.Panel):
         self.layout.separator()
 
         row = layout.row(align=True)
-        row.operator("cat.delete_orphan", text="Delete Orphan")
+        row.operator("cat.delate_orphan", text="Delete Orphan")
 
 
 
