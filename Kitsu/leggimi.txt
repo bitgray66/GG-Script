@@ -1,3 +1,13 @@
 docker run --init -ti --rm -p 80:80 --name cgwire cgwire/cgwire
 
+https://hub.docker.com/r/cgwire/cgwire
+https://zou.cg-wire.com/#deploying-kitsu
+
+
 pwd GigiK24!
+
+Kitsu Free Local Host Access Via Docker - Blender Communit
+https://www.youtube.com/watch?v=6VGgcmcSIFs
+
+La pipeline cinematografica Tiki con Seafile, Kitsu, Prism e Blender
+https://www.youtube.com/watch?v=axRPdyy-RWw
