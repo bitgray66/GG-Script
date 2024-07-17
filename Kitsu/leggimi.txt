@@ -1,0 +1,3 @@
+docker run --init -ti --rm -p 80:80 --name cgwire cgwire/cgwire
+
+pwd GigiK24!

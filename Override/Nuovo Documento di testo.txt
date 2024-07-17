@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/75317210/select-the-right-context-for-the-outliner-using-python-and-qt
+
+import bpy
+
+
+bpy.context.area.type = 'OUTLINER'
+bpy.ops.outliner.liboverride_operation(type="OVERRIDE_LIBRARY_CREATE_HIERARCHY",selection_set="SELECTED_AND_CONTENT")
+bpy.context.area.type = 'TEXT_EDITOR'
