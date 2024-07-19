@@ -1,0 +1,49 @@
+Attivita_di_riepilogo,quantita,giorni_uomo,Durata,Inizio,Fine,Predecessori,Costo
+Boo,,,355.5,02/09/24,28/01/26,,503.97
+Modeling & Texturing,,,132,02/09/24,13/03/25,,503.97
+Main content,2,12,12,02/09/24,17/09/24,,503.97
+Main character,1,,12,02/09/24,17/09/24,,503.97
+Main character,1,,12,02/09/24,17/09/24,,0.00
+Main content,19,12,120,18/09/24,13/03/25,3,0.00
+Secondary character,10,,120,18/09/24,13/03/25,,0.00
+Secondary character,9,,108,18/09/24,25/02/25,,0.00
+Main content,4,30,30,02/09/24,11/10/24,,0.00
+Main macro environment (+Look Dev),1,,30,02/09/24,11/10/24,,0.00
+Main macro environment (+Look Dev),1,,30,02/09/24,11/10/24,,0.00
+Main macro environment (+Look Dev),1,,30,02/09/24,11/10/24,,0.00
+Main macro environment (+Look Dev),1,,30,02/09/24,11/10/24,,0.00
+Main content,10,5,15,14/10/24,04/11/24,9,0.00
+Incidental not speaking characters,3,,15,14/10/24,04/11/24,,0.00
+Incidental not speaking characters,3,,15,14/10/24,04/11/24,,0.00
+Incidental not speaking characters,2,,10,14/10/24,25/10/24,,0.00
+Incidental not speaking characters,2,,10,14/10/24,25/10/24,,0.00
+Modeling & Texturing,,,261.5,28/10/24,13/11/25,,0.00
+Episodic content,8,12,60,26/02/25,23/05/25,,0.00
+Comparse umane (2 adulti+bambino),3,,36,14/03/25,07/05/25,7,0.00
+Comparse umane (2 adulti+bambino),5,,60,26/02/25,23/05/25,8,0.00
+Episodic content,30,0.5,13.5,08/05/25,27/05/25,,0.00
+Episodic character (cambio colore vestito o cappelli),27,,13.5,08/05/25,27/05/25,21,0.00
+Episodic character (cambio colore vestito o cappelli),3,,1.5,26/05/25,27/05/25,22,0.00
+Episodic content,8,12,48,27/05/25,04/08/25,,0.00
+Episodic speaking human characters,4,,48,27/05/25,04/08/25,24,0.00
+Episodic speaking human characters,4,,48,27/05/25,04/08/25,25,0.00
+Episodic content,12,12,72,04/08/25,13/11/25,,0.00
+Episodic incidental characters,6,,72,04/08/25,13/11/25,27,0.00
+Episodic incidental characters,6,,72,04/08/25,13/11/25,28,0.00
+Episodic content,358,1.5,184,28/10/24,25/07/25,,0.00
+Episodic Props,119,,179,05/11/24,25/07/25,15,0.00
+Episodic Props,119,,179,05/11/24,25/07/25,16,0.00
+Episodic Props,119,,179,28/10/24,18/07/25,17,0.00
+Episodic content,58,0.5,29,02/07/25,11/08/25,,0.00
+Episodic Prop (solo TX),,,29,02/07/25,11/08/25,35FI-13,0.00
+Episodic content,10,20,204,28/10/24,25/08/25,,0.00
+Episodic environment,1,,20,28/07/25,25/08/25,33,0.00
+Episodic environment,1,,20,28/07/25,25/08/25,34,0.00
+Episodic environment,1,,20,21/07/25,18/08/25,35,0.00
+Episodic environment,7,,140,28/10/24,23/05/25,18,0.00
+Episodic content,2,5,69,26/05/25,01/09/25,,0.00
+Night version - EXT Macro environment,1,,5,26/08/25,01/09/25,40,0.00
+Night version - EXT Macro environment,1,,5,26/05/25,30/05/25,42,0.00
+Episodic content,2,10,69,03/06/25,08/09/25,,0.00
+Seasonal version - EXT Macro environment,1,,10,26/08/25,08/09/25,39,0.00
+Seasonal version - EXT Macro environment,1,,10,03/06/25,16/06/25,45,0.00

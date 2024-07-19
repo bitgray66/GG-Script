@@ -1,0 +1,49 @@
+Attività_di_riepilogo;quantità;giorni_uomo;Durata;Inizio;Fine;Predecessori;Costo
+;;;355,5 g;lun 02/09/24;mer 28/01/26;;503,97 €
+Modeling & Texturing;;;132 g;lun 02/09/24;gio 13/03/25;;503,97 €
+Main content;2;12;12 g;lun 02/09/24;mar 17/09/24;;503,97 €
+Main character;1;;12 g;lun 02/09/24;mar 17/09/24;;503,97 €
+Main character;1;;12 g;lun 02/09/24;mar 17/09/24;;0,00 €
+Main content;19;12;120 g;mer 18/09/24;gio 13/03/25;3;0,00 €
+Secondary character;10;;120 g;mer 18/09/24;gio 13/03/25;;0,00 €
+Secondary character;9;;108 g;mer 18/09/24;mar 25/02/25;;0,00 €
+Main content;4;30;30 g;lun 02/09/24;ven 11/10/24;;0,00 €
+Main macro environment (+Look Dev);1;;30 g;lun 02/09/24;ven 11/10/24;;0,00 €
+Main macro environment (+Look Dev);1;;30 g;lun 02/09/24;ven 11/10/24;;0,00 €
+Main macro environment (+Look Dev);1;;30 g;lun 02/09/24;ven 11/10/24;;0,00 €
+Main macro environment (+Look Dev);1;;30 g;lun 02/09/24;ven 11/10/24;;0,00 €
+Main content;10;5;15 g;lun 14/10/24;lun 04/11/24;9;0,00 €
+Incidental not speaking characters;3;;15 g;lun 14/10/24;lun 04/11/24;;0,00 €
+Incidental not speaking characters;3;;15 g;lun 14/10/24;lun 04/11/24;;0,00 €
+Incidental not speaking characters;2;;10 g;lun 14/10/24;ven 25/10/24;;0,00 €
+Incidental not speaking characters;2;;10 g;lun 14/10/24;ven 25/10/24;;0,00 €
+Modeling & Texturing;;;261,5 g;lun 28/10/24;gio 13/11/25;;0,00 €
+Episodic content;8;12;60 g;mer 26/02/25;ven 23/05/25;;0,00 €
+Comparse umane (2 adulti+bambino);3;;36 g;ven 14/03/25;mer 07/05/25;7;0,00 €
+Comparse umane (2 adulti+bambino);5;;60 g;mer 26/02/25;ven 23/05/25;8;0,00 €
+Episodic content;30;0,5;13,5 g;gio 08/05/25;mar 27/05/25;;0,00 €
+Episodic character (cambio colore vestito o cappelli);27;;13,5 g;gio 08/05/25;mar 27/05/25;21;0,00 €
+Episodic character (cambio colore vestito o cappelli);3;;1,5 g;lun 26/05/25;mar 27/05/25;22;0,00 €
+Episodic content;8;12;48 g;mar 27/05/25;lun 04/08/25;;0,00 €
+Episodic speaking human characters;4;;48 g;mar 27/05/25;lun 04/08/25;24;0,00 €
+Episodic speaking human characters;4;;48 g;mar 27/05/25;lun 04/08/25;25;0,00 €
+Episodic content;12;12;72 g;lun 04/08/25;gio 13/11/25;;0,00 €
+Episodic incidental characters;6;;72 g;lun 04/08/25;gio 13/11/25;27;0,00 €
+Episodic incidental characters;6;;72 g;lun 04/08/25;gio 13/11/25;28;0,00 €
+Episodic content;358;1,5;184 g;lun 28/10/24;ven 25/07/25;;0,00 €
+Episodic Props;119;;179 g;mar 05/11/24;ven 25/07/25;15;0,00 €
+Episodic Props;119;;179 g;mar 05/11/24;ven 25/07/25;16;0,00 €
+Episodic Props;119;;179 g;lun 28/10/24;ven 18/07/25;17;0,00 €
+Episodic content;58;0,5;29 g;mer 02/07/25;lun 11/08/25;;0,00 €
+Episodic Prop (solo TX);;;29 g;mer 02/07/25;lun 11/08/25;35FI-13 g;0,00 €
+Episodic content;10;20;204 g;lun 28/10/24;lun 25/08/25;;0,00 €
+Episodic environment;1;;20 g;lun 28/07/25;lun 25/08/25;33;0,00 €
+Episodic environment;1;;20 g;lun 28/07/25;lun 25/08/25;34;0,00 €
+Episodic environment;1;;20 g;lun 21/07/25;lun 18/08/25;35;0,00 €
+Episodic environment;7;;140 g;lun 28/10/24;ven 23/05/25;18;0,00 €
+Episodic content;2;5;69 g;lun 26/05/25;lun 01/09/25;;0,00 €
+Night version - EXT Macro environment;1;;5 g;mar 26/08/25;lun 01/09/25;40;0,00 €
+Night version - EXT Macro environment;1;;5 g;lun 26/05/25;ven 30/05/25;42;0,00 €
+Episodic content;2;10;69 g;mar 03/06/25;lun 08/09/25;;0,00 €
+Seasonal version - EXT Macro environment;1;;10 g;mar 26/08/25;lun 08/09/25;39;0,00 €
+Seasonal version - EXT Macro environment;1;;10 g;mar 03/06/25;lun 16/06/25;45;0,00 €
