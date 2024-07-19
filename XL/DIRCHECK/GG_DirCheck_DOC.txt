@@ -1,1 +1,4 @@
 richiede libreria openpyxl
+
+py -m pip install openpyxl
+py -m pip list
