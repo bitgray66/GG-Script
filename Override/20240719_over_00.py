@@ -67,30 +67,85 @@ def override_selected_object():
         print(f"Override eseguito per l'oggetto: {obj.name}")
         
         
+""" def relocate_objects(prefix_location):
+    print("get_prefix_location ------------> ", prefix_location)    
+    meshes = bpy.data.meshes
+    print("meshes ------------> ", meshes)
+    for mesh in meshes:
+        mesh_name = mesh.name
+        print("----mesh-----", mesh_name)
+        for key in prefix_location:
+            print("----key-----", key)
+            # check if the message starts with prefix
+            if mesh_name.startswith(key):
+                print("trovata corrispondenza key ", key)
+                obj = bpy.data.objects.get(mesh_name)
+                print("trovata obj-key", obj)
+                obj.select_set(True)
+                bpy.context.view_layer.objects.active = obj
+ """
+
+
 def relocate_objects(prefix_location):
     print("get_prefix_location ------------> ", prefix_location)    
-        
+    ob_selected = bpy.context.selected_objects
+    print("meshes ------------> ", ob_selected)
+    for ob in ob_selected:
+        ob_name = ob.name
+        print("----mesh-----", ob_name)
+        for key in prefix_location:
+            print("----key-----", key)
+            # check if the message starts with prefix
+            if ob_name.startswith(key):
+                print("trovata corrispondenza key ", key)
+                obj = bpy.data.objects.get(ob_name)
+                print("trovata obj-key", obj)
+                #obj.select_set(True)
+                bpy.context.view_layer.objects.active = obj
+                #obj.location = (3,3,3)
+                val = prefix_location[key]
+                #obj.location = val
+                print("trovata obj-val",  val)
+                # obj.location = (-50.0000, 0.0000, 0.0000)
+
+                print(type(val))
+                val = val[1:-1]
+                print(val)
+                
+
+
+
+
+
+
+
+
         
 # Esegui la funzione
 selected_col, list_location = get_list_selected()
 print("return_selected_col ------------> ", selected_col)
 print("return_list_location ------------> ", list_location)
 
+list_position = []
+for loc in list_location:
+    print("type loc ------------> ", type(loc))
+    newloc = str(loc)
+    newloc = newloc[8:-1]
+    list_position.append(newloc)
+print("return_list_position ------------> ", list_position)
 
 override_collections(selected_col)
 
 list_prefixes = get_list_prefixes(selected_col)
 print("return_list_prefixes ------------> ", list_prefixes)
 
-
 reselect_objects(list_prefixes)
 print("return_list_objects ------------> ")
-
-
-prefix_location = list(zip(list_prefixes, list_location))
-print("create_prefix_location ------------> ", prefix_location)
             
 override_selected_object()
+
+prefix_location = {list_prefixes[i]: list_position[i] for i in range(len(list_prefixes))}
+print("create_prefix_location ------------> ", prefix_location)
 
 relocate_objects(prefix_location)
 
@@ -99,3 +154,10 @@ print("selected_col ------------> ", selected_col) """
 
 
 # list_data = override_collections(selected_col)
+
+
+
+###############################
+
+""" editorLoc = ob.location
+    x,y,z = ob.location """
