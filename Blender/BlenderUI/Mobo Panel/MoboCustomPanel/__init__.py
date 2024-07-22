@@ -1,8 +1,8 @@
 bl_info = {
     "name": "Mobo Custom Panel",
     "author": "Luigi Marazzi",
-    "version": (0, 1, 0),
-    "blender": (5, 0, 1),
+    "version": (1, 1, 0),
+    "blender": (4, 1, 0),
     "location": "3D Viewport > Sidebar > Mobo",
     "description": "Mobo setting panel",
     "category": "Development",
@@ -10,12 +10,13 @@ bl_info = {
 
 import bpy
 
-from .MoboCustomPanel import CAT_OT_RenameDataOperator, WIEW3D_PT_MoboPanel, CAT_OT_DeletAllOrphan
+from .MoboCustomPanel import CAT_OT_RenameDataOperator, VIEW3D_PT_MoboPanel, CAT_OT_DeletAllOrphan, CAT_OT_Override
 
 classes = (
     CAT_OT_RenameDataOperator,
-    WIEW3D_PT_MoboPanel,
     CAT_OT_DeletAllOrphan,
+    CAT_OT_Override,
+    VIEW3D_PT_MoboPanel,
 )
 
 def register():

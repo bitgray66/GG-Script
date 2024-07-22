@@ -29,3 +29,8 @@ Use the shortcut Alt+Enter to choose all occurrences of the keyword within the d
 To select the complete line that includes the keyword, use the shortcut key Ctrl+L.
 Multiline editing option CTRL + ALT + ↑ or CTRL + ALT + ↓
 
+^.*#.*?\n       elimina riga che contiene # ()
+
+^\s*#.*$        non elimina riga ma solo la selezione che inizia con # (prima non ci deve essere nulla solo spazi)
+
+\s*#.*$         non elimina riga ma solo la selezione che inizia con # (prima può esserci altro)
