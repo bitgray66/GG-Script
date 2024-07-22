@@ -1,7 +1,29 @@
 ^\s*#.*$
 \s*#.*$
+^.*#.*?\n elimina righa che inizia con #
+
 ^\s*print.*$
 ^\s*.*print.*\n
+
+^\s*print\(.*\n
+
+^\s*(#.*)?$
+Spiegazione:
+^: Inizio della riga.
+\s*: Zero o più spazi bianchi (spazi, tabulazioni, ecc.).
+(#.*)?: Un commento opzionale (# seguito da qualsiasi carattere, zero o più volte). Il punto interrogativo ? indica che questa parte è opzionale.
+$: Fine della riga.
+Spiegazione:
+
+^ : Inizio della riga.
+\s* : Zero o più spazi bianchi (spazi, tabulazioni, ecc.).
+print\( : La stringa print(. La parentesi è preceduta da un backslash \ per fare l'escape del carattere speciale.
+.*: Zero o più caratteri qualsiasi (eccetto i caratteri di nuova riga per impostazione predefinita). Questo consente di catturare tutto ciò che segue il comando print nella stessa riga.
+$: Indica la fine della riga. Assicura che la corrispondenza termini alla fine della riga.
+
+
+
+VSCODE
 
 Use the shortcut Alt+Enter to choose all occurrences of the keyword within the document.
 To select the complete line that includes the keyword, use the shortcut key Ctrl+L.
