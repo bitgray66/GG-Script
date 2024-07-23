@@ -1,0 +1,32 @@
+https://gist.github.com/Psyda
+
+https://help.kitbash3d.com/en/articles/6637865-how-to-best-optimize-kitbash3d-kits-for-blender#h_c6f7cfe065
+
+
+
+
+
+
+
+
+Blender KB3D PNG to JPG_and_Folder.py
+
+Renames file extension paths from PNG to JPG. Also Tells the file to search for a folder called "Renamemetopackname" instead of the normal 4k folder.
+
+
+
+
+
+
+Blender KB3D PNG to JPG Reference Fixer.py
+
+This script changes every reference to an image in a Blend file from .png to .jpg. Useful for linking to compressed images
+
+
+
+
+
+
+Blender KB3D Collection Maker.py
+
+Moves all empty objects into collections named after them for easy importing into Blender's Asset Library
