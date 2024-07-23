@@ -124,6 +124,7 @@ try:
 
     list_position = []
     for loc in list_location:
+        print("loc ------------> ", loc)
         print("type loc ------------> ", type(loc))
         newloc = str(loc)
         newloc = newloc[8:-1]
@@ -135,14 +136,14 @@ try:
     list_prefixes = get_list_prefixes(selected_col)
     print("return_list_prefixes ------------> ", list_prefixes)
 
-    reselect_objects(list_prefixes)
-    print("return_list_objects ------------> ")
+    #reselect_objects(list_prefixes)
+    #print("return_list_objects ------------> ")
 
-    override_selected_object()
+    #override_selected_object()
 
-    prefix_location = {list_prefixes[i]: list_position[i] for i in range(len(list_prefixes))}
-    print("create_prefix_location ------------> ", prefix_location)
+    #prefix_location = {list_prefixes[i]: list_position[i] for i in range(len(list_prefixes))}
+    #print("create_prefix_location ------------> ", prefix_location)
 
-    relocate_objects(prefix_location)
+    #relocate_objects(prefix_location)
 except Exception as e:
     print(f"Errore nell'esecuzione principale: {e}")
