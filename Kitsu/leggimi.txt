@@ -1,9 +1,21 @@
+installare doker desktop
+
+
+
+
 docker run --init -ti --rm -p 80:80 --name cgwire cgwire/cgwire
 
 https://hub.docker.com/r/cgwire/cgwire
 https://zou.cg-wire.com/#deploying-kitsu
 
+tutorial da sec 24 in avanti
 
+Credentials:
+
+login: admin@example.com⁠
+password: mysecretpassword
+
+gigimobo23@gmail.com
 pwd GigiK24!
 
 Kitsu Free Local Host Access Via Docker - Blender Communit
@@ -11,3 +23,14 @@ https://www.youtube.com/watch?v=6VGgcmcSIFs
 
 La pipeline cinematografica Tiki con Seafile, Kitsu, Prism e Blender
 https://www.youtube.com/watch?v=axRPdyy-RWw
+
+
+
+############### Kitsu è un software gratuito e open source,
+
+Kitsu Cloud vs Self-hosted
+https://www.cg-wire.com/self-hosted
+
+
+tutorial use Kitsu
+https://www.youtube.com/watch?v=CJ1ZOo86Gc8&list=PLp_1gB5ZBHXqnQgZ4TCrAt7smxesaDo29&index=1
